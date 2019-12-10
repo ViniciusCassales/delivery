@@ -1,4 +1,4 @@
-package com.coderef.delivery.config;
+package com.vcassales.deliveryauthserver.config;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
