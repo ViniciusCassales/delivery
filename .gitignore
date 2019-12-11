@@ -1,4 +1,4 @@
 /delivery-auth-server/target/
-/delivery-config-server/target/
 /delivery-eureka-server/target/
 /delivery-order-service/target/
+/delivery-config-server/target
